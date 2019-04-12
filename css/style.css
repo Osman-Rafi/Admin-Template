@@ -15,6 +15,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 5px 7px 25px #999;
+    overflow-y: auto;
 }
 
 .bottom-border{
